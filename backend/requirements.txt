@@ -1,0 +1,11 @@
+langchain
+langchain_core
+langchain_community
+fastapi
+uvicorn[standard]
+pydantic-settings
+pydantic
+python-dotenv
+sqlalchemy[asyncio]
+asyncpg
+chromadb
